@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\code\Desktop\C# Classes Homowork\Classes\Classes\Classes\obj\Debug\Classes.pdb
